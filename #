@@ -1,0 +1,87 @@
+</html>
+</style>
+<div id="m-logo2">
+<body>
+<div id="google-logo">
+</div>
+</head>
+</body>
+<style>
+<html>
+<body>
+</div>
+</body>
+</div>
+<div id="m-logo1">
+::;ġ'#google-logo {
+                  position: relative;
+                  width: 250px;
+                  height: 250px;
+                  padding: 0;
+                  margin: 10vh auto 0;
+                  border-top: 100px solid #EA4335;
+                  border-left: 100px solid #FBBC05;
+                  border-bottom: 100px solid #34A853;
+                  border-right: 100px solid #4285F4;
+                  border-radius: 50%;
+                  }
+                  #m-logo1::before {
+                  content: "";
+                  z-index: 0;
+                  position: absolute;
+                  top: 0%;
+                  right: 260px;
+                  width: 250px;
+                  height: 250px;
+                  background-color: #F44E24;
+                  }
+                  #google-logo::before {
+                  content: "";
+                  z-index: 0;
+                  position: absolute;
+                  top: 30%;
+                  right: -90px;
+                  width: 245px;
+                  height: 100px;
+                  background-color: #4285F4;
+                  }
+                  #m-logo1 {
+                  position: relative;
+                  width: 250px;
+                  height: 250px;
+                  padding: 0;
+                  margin-top: 10vh;
+                  margin-left: 95vh;
+                  background-color: #81B900;
+                  }
+                  #m-logo2 {
+                  position: relative;
+                  width: 250px;
+                  height: 250px;
+                  padding: 0;
+                  margin-top: 10px;
+                  margin-left: 95vh;
+                  background-color: #FFB902;
+                  }
+                  #m-logo2::before {
+                  content: "";
+                  z-index: 0;
+                  position: absolute;
+                  top: 0%;
+                  right: 260px;
+                  width: 250px;
+                  height: 250px;
+                  background-color: #01A4EF;
+                  }
+                  <html><head><style>
+                  <head></style></head>
+                  #google-logo::after {
+                  content: "";
+                  z-index: 1;
+                  position: absolute;
+                  border-top: 200px solid transparent;
+                  border-right: 200px solid #fff;
+                  top: -125px;
+                  right: -100px;
+                  </html>
+                  }
